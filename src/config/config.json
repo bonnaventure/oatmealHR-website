@@ -10,28 +10,24 @@
     "logo_height": "38",
     "logo_text": "Bigspring Light"
   },
-
   "settings": {
     "pagination": 4,
     "summary_length": 200
   },
-
   "nav_button": {
     "enable": true,
     "label": "Get Started",
     "link": "/contact"
   },
-
   "params": {
     "contact_form_action": "#",
     "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
     "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
-
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro free blog theme"
+    "meta_description": "OatmealHR helps hiring teams shortlist candidates faster with lateral-thinking behavioral assessments and human-reviewed AI analysis—get a ranked shortlist in as little as 48 hours."
   },
   "google_tag_manager": {
     "enable": false,
